@@ -1,5 +1,5 @@
 {
-  "name": "LucasMaliszewski/mc-magento2",
+  "name": "lucasmaliszewski/mc-magento2",
   "autoload": {
     "psr-4": {"Ebizmarts\\MailChimp\\":""},
     "files": ["registration.php"]
